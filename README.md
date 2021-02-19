@@ -1,6 +1,6 @@
 # UFOs
 
-## Pverview of Project
+## Overview of Project
 The purpose of this project was to develop an interactive webpage about UFOs sightings around the world.
 <br>
 <br>
@@ -29,3 +29,4 @@ The user can filter the result further by adding the city and state. In the exam
 As more filters are added, the search is narrowed down to fit the search criteria.
 
 ## Summary
+A drawback of this design is that all of the data is listed on one page, which could be troublesome for some users, as they will be required to scroll and scroll through the data. A recommendation for improvement is to place the data on multiple webpages (i.e., 20 results on each page), utilizing a numbered navigation bar at the bottom of the page. The page can also be further developed by adding a feature in the Filter Search input boxes that displays suggestions as users type. If there is data available for the text that is being typed, the suggestion would pop up. If not, no text will pop up, immediately notifying the user that there is no data available for that filter.
